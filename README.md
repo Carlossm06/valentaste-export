@@ -2,6 +2,9 @@
 
 Proyecto académico de Comercio Digital Internacional.
 
+## Web pública
+https://carlossm06.github.io/valentaste-export/
+
 ## Contenido
 - Inicio
 - Catálogo con precios y carrito demostrativo
